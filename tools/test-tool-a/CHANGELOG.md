@@ -1,6 +1,13 @@
 # Change Log - @alisowski/rush-test-a
 
-This log was last generated on Fri, 05 Feb 2021 22:34:41 GMT and should not be manually modified.
+This log was last generated on Fri, 05 Feb 2021 22:38:03 GMT and should not be manually modified.
+
+## 1.2.1
+Fri, 05 Feb 2021 22:37:30 GMT
+
+### Patches
+
+- asdf
 
 ## 1.2.0
 Fri, 05 Feb 2021 22:34:41 GMT
