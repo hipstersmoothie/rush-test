@@ -2,6 +2,18 @@
   "name": "@alisowski/rush-test-a",
   "entries": [
     {
+      "version": "1.1.5",
+      "tag": "@alisowski/rush-test-a_v1.1.5",
+      "date": "Fri, 05 Feb 2021 22:31:39 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "asdf"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.4",
       "tag": "@alisowski/rush-test-a_v1.1.4",
       "date": "Fri, 05 Feb 2021 22:01:01 GMT",
