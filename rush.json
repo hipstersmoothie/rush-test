@@ -391,11 +391,13 @@
   "projects": [
     {
       "packageName": "@alisowski/rush-test-a",
-      "projectFolder": "tools/test-tool-a"
+      "projectFolder": "tools/test-tool-a",
+      "shouldPublish": true
     },
     {
       "packageName": "@alisowski/rush-test-b",
-      "projectFolder": "tools/test-tool-b"
+      "projectFolder": "tools/test-tool-b",
+      "shouldPublish": true
     }
     // {
     //   /**
