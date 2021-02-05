@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@alisowski/rush-test-b",
+      "comment": "asdf",
+      "type": "major"
+    }
+  ],
+  "packageName": "@alisowski/rush-test-b",
+  "email": "lisowski54@gmail.com"
+}
