@@ -1,0 +1,22 @@
+dependencies:
+  '@rush-temp/rush-test-a': file:projects/rush-test-a.tgz
+  '@rush-temp/rush-test-b': file:projects/rush-test-b.tgz
+lockfileVersion: 5.2
+packages:
+  file:projects/rush-test-a.tgz:
+    dev: false
+    name: '@rush-temp/rush-test-a'
+    resolution:
+      integrity: sha512-iIkG3j3e3mYLlvq7GMzFS+D1x8mLstBIFKHp79PDzNA+SyY2qCbA2yYAAyjp/cechXk6lxofDYh4385t0dJLkg==
+      tarball: file:projects/rush-test-a.tgz
+    version: 0.0.0
+  file:projects/rush-test-b.tgz:
+    dev: false
+    name: '@rush-temp/rush-test-b'
+    resolution:
+      integrity: sha512-Z0byvmGZXI/dCVoWVck5/sB5TXKqO+haM7DJuBzUJchL+rNJVbFVvjHIbAjUJxjXYj8jw7w9P6CYzvjiK7h8XQ==
+      tarball: file:projects/rush-test-b.tgz
+    version: 0.0.0
+specifiers:
+  '@rush-temp/rush-test-a': file:./projects/rush-test-a.tgz
+  '@rush-temp/rush-test-b': file:./projects/rush-test-b.tgz
